@@ -1,3 +1,10 @@
+# Why the fork?
+
+The official Machinist project doesn't currently have support for DataMapper. This
+fork provides support for DataMapper.  All AR specs have been applied to DataMapper
+and 100% are passing.  A pull request has been submitted, but looking at the pull-
+request queue, I don't foresee it being merged in a hurry.
+
 # Machinist 2
 
 *Fixtures aren't fun. Machinist is.*
